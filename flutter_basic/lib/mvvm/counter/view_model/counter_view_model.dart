@@ -1,6 +1,6 @@
 
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:flutter_basic/mvvm/state/counter_state.dart';
+import 'package:flutter_basic/mvvm/counter/state/counter_state.dart';
 
 
 part 'counter_view_model.g.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_basic/mvvm/view_model/counter_view_model.dart';
+import 'package:flutter_basic/mvvm/counter/view_model/counter_view_model.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 
